@@ -11,3 +11,15 @@ tmp/
 .DS_Store
 bower_components/
 node_modules/
+
+# Next.js
+.next/
+out/
+.env.local
+.env*.local
+
+# Migration artifacts
+.env
+analysis-report.json
+migration-plan.json
+graphify-out/
