@@ -1,0 +1,13 @@
+@import '@patternfly/patternfly/patternfly.css';
+
+.img-responsive.img-circle {
+  height: 100px;
+}
+
+.p-t-8 {
+  padding-top: 8px !important;
+}
+
+[data-clickable] {
+  cursor: pointer;
+}
